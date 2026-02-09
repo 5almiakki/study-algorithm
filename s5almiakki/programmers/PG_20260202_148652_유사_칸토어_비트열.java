@@ -1,5 +1,5 @@
 
-public class PG_148652_유사_칸토어_비트열 {
+public class PG_20260202_148652_유사_칸토어_비트열 {
 
     class Solution {
 
