@@ -1,5 +1,5 @@
 
-public class PG_70129_이진_변환_반복하기 {
+public class PG_20260220_70129_이진_변환_반복하기 {
 
     class Solution {
 
