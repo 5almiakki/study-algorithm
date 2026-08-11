@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PG_20260407_1_2_3_떨어트리기 {
+public class PG_20260407_150364_1_2_3_떨어트리기 {
 
     class Solution {
 
