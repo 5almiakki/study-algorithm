@@ -1,6 +1,4 @@
-import java.util.*;
-
-public class PG_20260720_격자_뒤집기_미로 {
+public class PG_20260720_389630_격자_뒤집기_미로 {
 
 	class Solution {
 
